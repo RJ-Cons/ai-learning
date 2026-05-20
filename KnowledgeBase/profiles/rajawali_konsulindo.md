@@ -13,12 +13,17 @@ A professional consulting and training firm specializing in:
 ## 🛠 Services & Offerings
 RJ Consulting focuses on developing practical competencies through industry-relevant training. They act as a **Registered Training Provider** for the International Financial Modeling Institute (IFMI).
 
+## 🛠 Services & Offerings
+RJ Consulting focuses on developing practical competencies through industry-relevant training. They act as a **Registered Training Provider** for the International Financial Modeling Institute (IFMI).
+
 ### Key Certification Programs:
-- **Professional Financial Modeler (PFM)**
-- **Financial Risk Analysis for Corporation (FRAC)**
-- **Professional Project Analyst (PPA)**
-- **Certified Risk Professional (CRP)**
-- **Essential Financial Analysis & Strategic Risk Assessment**
+- **Professional Financial Modeler (PFM):** Advanced financial modeling, valuation, and forecasting.
+- **Financial Risk Analysis for Corporation (FRAC):** Corporate financial risk management.
+- **Professional Project Analyst (PPA):** Project feasibility and investment evaluation.
+- **Certified Risk Professional (CRP):** BNSP-accredited risk management.
+- **Other:** Essential Financial Analysis & Strategic Risk Assessment.
+
+**Detailed Program Catalog:** Refer to `KnowledgeBase/programs/program_catalog.md`.
 
 ## 👥 Clientele
 Serves a wide range of corporate clients, including:
