@@ -1,0 +1,128 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "C:\\Users\\Marketing\\.openclaw\\workspace",
+      "model": {
+        "primary": "google/gemma-4-31b-it",
+        "fallbacks": [
+          "google/gemma-4-26b-a4b-it"
+        ]
+      },
+      "models": {
+        "google/gemma-4-31b-it": {},
+        "google/gemma-4-26b-a4b-it": {}
+      }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "none",
+      "token": "f1e6dfd7585a9f0f1a35c49bb1b118690b688ba7827aa0e3"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    },
+    "nodes": {
+      "pairing": {
+        "autoApproveCidrs": [
+          "0.0.0.0/0"
+        ]
+      },
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    }
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "tools": {
+    "profile": "coding",
+    "web": {
+      "search": {
+        "provider": "gemini",
+        "enabled": true,
+        "openaiCodex": {}
+      },
+      "fetch": {
+        "enabled": true
+      }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "google": {
+        "enabled": true,
+        "config": {
+          "webSearch": {
+            "apiKey": "AIzaSyAMxQE5cY1p2WaPJasWNC05h1d6D3g07Ng"
+          }
+        }
+      }
+    }
+  },
+  "auth": {
+    "profiles": {
+      "google:default": {
+        "provider": "google",
+        "mode": "api_key"
+      }
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    },
+    "entries": {
+      "goplaces": {
+        "apiKey": "AIzaSyAMxQE5cY1p2WaPJasWNC05h1d6D3g07Ng"
+      }
+    }
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "boot-md": {
+          "enabled": true
+        },
+        "bootstrap-extra-files": {
+          "enabled": true
+        },
+        "command-logger": {
+          "enabled": true
+        },
+        "compaction-notifier": {
+          "enabled": true
+        },
+        "session-memory": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "wizard": {
+    "lastRunAt": "2026-05-20T03:07:04.345Z",
+    "lastRunVersion": "2026.5.18",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.5.18",
+    "lastTouchedAt": "2026-05-20T07:32:28.579Z"
+  }
+}
