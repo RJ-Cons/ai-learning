@@ -1,0 +1,10 @@
+# sync_state.ps1.template
+# Template for synchronization script. Replace paths with your local setup.
+
+$GitPath = "C:\Program Files\Git\bin\git.exe"
+$WorkspaceRoot = "YOUR_WORKSPACE_PATH"
+$RepoPath = "$WorkspaceRoot\ai-learning"
+$LocalMemoryPath = "$WorkspaceRoot\memory"
+$RepoMemoryPath = "$RepoPath\memory"
+
+# ... (rest of the logic remains the same)
