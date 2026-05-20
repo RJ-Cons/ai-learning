@@ -1,27 +1,26 @@
 # 👤 Profile: Dr. Ricky Ichsan
 
-**Role:** CEO of PT Rajawali Konsulindo (RJ Consulting) | Founder of Ourtoga.com | Business Influencer
+**Role:** CEO of PT Rajawali Konsulindo (RJ Consulting) | Founder of Ourtoga.com (PT Rajawali Teknologi Solusindo) | Business Influencer
 
 ## 🎓 Education
 - **Doctoral Degree (S3):** Dr. from Universitas Brawijaya
-- **Master's Degree:** Universitas Kristen Krida Wacana
+- **Master's Degree:** Universitas Kristen Krida Wacana (Finance & Legal Science)
 - **Bachelor's Degree:** Universitas Tarumanagara
 
 ## 🛠 Expertise & Specialization
-Over two decades of experience in the financial sector, focusing on:
+With over 20 years of experience, Dr. Ricky Ichsan is a recognized expert in:
 - Investment Banking & Treasury
 - Derivatives Forensic
 - Project Analysis & Risk Management
-- Insurance
+- Insurance & Corporate Finance
 
 ## 📜 Professional Certifications
-Ricky Ichsan holds an extensive list of industry-recognized certifications:
-- **PFM:** Professional Financial Modeler (IFMI)
-- **FRAC:** Financial Risk Analyst for Corporation
-- **CFA:** Chartered Financial Analyst
-- **FRM:** Financial Risk Manager
-- **CRP:** Certified Risk Professional
-- **Other:** CFOS, CSA, CRMP, CFP, ERMCP
+Holds an elite array of industry-recognized qualifications:
+- **Core:** CFA, FRM, PFM (IFMI), FRAC, CFP, CFOS, CRMP, CRP.
+- **Specific:** Qualified Ourtoga Program Administrator (QOPA).
 
-## 🌐 Public Presence
-Active as a business influencer, sharing strategic insights on infrastructure projects and their impact on business growth.
+## 🌐 Digital Presence & Influence
+- **Instagram:** `@rickyichsan` (Active business influencer discussing financial impacts and business prospects, e.g., analysis of the Bocimi Toll Road).
+- **LinkedIn:** Professional presence as CEO and Founder.
+- **Vision:** Bridging professional financial modeling standards with practical business application.
+
