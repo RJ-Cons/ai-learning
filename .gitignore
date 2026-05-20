@@ -1,0 +1,6 @@
+# Git Ignore List
+IDENTITY.md
+USER.md
+*.log
+.DS_Store
+Thumbs.db
