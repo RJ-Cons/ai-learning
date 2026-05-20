@@ -7,8 +7,13 @@ Dokumen ini menjelaskan hierarki dan alur pengelolaan memori ECHO untuk memastik
 Sistem memori ECHO dibagi menjadi tiga level untuk menyeimbangkan detail jangka pendek dan wawasan jangka panjang:
 
 ### 1. Raw Logs (Daily Memory)
-- **Lokasi:** `workspace/memory/YYYY-MM-DD.md`
-- **Fungsi:** Catatan mentah harian tentang semua kejadian, instruksi, dan hasil kerja.
+- **Lokasi:** `workspace/memory/`
+- **Sub-struktur:**
+    - `/daily`: Catatan harian kronologis (`YYYY-MM-DD.md`).
+    - `/task`: Log pengerjaan tugas spesifik dan tracking progress.
+    - `/refs`: Referensi cepat, snippet, dan data pendukung sementara.
+    - `/learning`: Catatan pembelajaran, trial-and-error, dan wawasan baru.
+- **Fungsi:** Catatan mentah tentang semua kejadian, instruksi, dan hasil kerja.
 - **Karakteristik:** Detail tinggi, tidak terkurasi, bersifat kronologis.
 
 ### 2. Curated Memory (Long-term Memory)
